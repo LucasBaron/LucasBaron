@@ -3,8 +3,8 @@
 
 
 
-- 🔭 Atualmente trabalhando em Front-End
-- 🌱 Aprendendo Python e JavaScript
+- 🔭 Game Developer in Unreal Engine
+- 🧩  C++
 
 <div align="center">
   <a href="https://github.com/LucasBaron">
